@@ -1,19 +1,19 @@
 /*全局基础样式*/
-/*小屏幕下(手机类)的样式*/
+/*小屏幕下(手机�?)的样�?*/
 @media only screen and (max-width: 601px) {
     .container {
         width: 95%;
     }
 }
 
-/*中等屏幕下(平板类)的样式*/
+/*中等屏幕�?(平板�?)的样�?*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .container {
         width: 90%;
     }
 }
 
-/*大屏幕下(桌面类)的样式*/
+/*大屏幕下(桌面�?)的样�?*/
 @media only screen and (min-width: 993px) {
     .container {
         width: 90%;
@@ -232,7 +232,7 @@ mark {
 
 .card .card-image img {
     border-radius: 8px 8px 0 0;
-    /* 修改文章列表图片填充样式为 cover 以覆盖整个区域而不会被缩放 */
+    /* 修改文章列表图片填充样式�? cover 以覆盖整个区域而不会被缩放 */
     object-fit: cover;
 }
 
@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #d6dadb 0%, #c0c1c2 100%);
+    background-image: linear-gradient(to right, #77eefdb5 0%, #77eefdb5 100%);
 }
 
 .text-color {
@@ -299,7 +299,7 @@ header .brand-logo .logo-span {
     font-size: 1.6rem;
 }
 
-/*修改顶部 logo 的文字垂直对齐为 top，避免默认 middle 看起来偏下*/
+/*修改顶部 logo 的文字垂直对齐为 top，避免默�? middle 看起来偏�?*/
 header .brand-logo .waves-effect {
     vertical-align: top;
 }
@@ -528,7 +528,7 @@ header .go-back i {
     line-height: 56px;
 }
 
-/* 背景图效果. */
+/* 背景图效�?. */
 .bg-cover {
     position: relative;
     display: flex;
@@ -745,7 +745,7 @@ header .go-back i {
     }
 }
 
-/*中等屏幕下(平板类)的样式*/
+/*中等屏幕�?(平板�?)的样�?*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .index-card .card .card-content {
         padding: 20px 20px;
@@ -861,7 +861,7 @@ header .go-back i {
     margin-top: -10px;
 }
 
-/*文章列表卡片各样式*/
+/*文章列表卡片各样�?*/
 #articles {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -1846,7 +1846,7 @@ footer .copy-right {
     color: #dbdbdb;
 }
 
-/*搜索层样式*/
+/*搜索层样�?*/
 #searchIcon {
     font-size: 1.2rem;
 }

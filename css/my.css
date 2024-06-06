@@ -1,1 +1,10 @@
-/* Here is your custom css styles. */
+/* Custom CSS styles */
+
+/* ȷ�����ѿ������ֱ���ɫΪ͸�� */
+.watched,
+.�ѿ� {
+    background-color: transparent;
+    /* ȷ������ɫ͸�� */
+    color: inherit;
+    /* ȷ���ı���ɫ�̳�ȫ����ʽ */
+}
